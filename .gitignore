@@ -1,0 +1,4 @@
+*.o
+*.out
+*.list
+cq_frk_fm3*.ld
